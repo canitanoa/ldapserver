@@ -1,8 +1,8 @@
 # RUN LDAP Server
 ```
-Ejecutar el "run.cmd" 
-o desde el raiz del repo ejecutar el comeamdo: 
-$ docker-compose up -d
+- Ejecutar el "run.cmd" 
+o 
+- Desde el raiz del repo ejecutar el comeamdo: $ docker-compose up -d
 ```
 
 # LDAP Server setup 
